@@ -1,6 +1,6 @@
 {
   "name": "electron-swan",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0",
   "description": "A cli tool for managing local Electron release artifacts",
   "type": "module",
   "main": "./dist/index.mjs",
