@@ -1,0 +1,7 @@
+export { getCacheRoot } from './cache'
+export { getLocalArchives } from './archives'
+export { getAllVersions } from './npm'
+export { list } from './commands/list'
+export { remove } from './commands/remove'
+export { check } from './commands/check'
+export { install } from './commands/install'
